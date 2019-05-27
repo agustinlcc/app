@@ -1,0 +1,36 @@
+html{
+    margin: 10px;
+    padding: 0px;
+}
+.boxlogin{
+    border-radius: 4px;
+    margin: 100px auto;
+    width: 450px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+input[type="submit"]{
+    margin-top: 10px;
+}
+
+html{
+    margin: 0px;
+    padding: 0px;
+}
+.boxrec{
+    border-radius: 4px;
+    margin: 100px auto;
+    width: 320px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+input[type="submit"]{
+    margin-top: 10px;
+}
+img {
+    margin-top: -195px;
+    margin-left: -290px;
+    left: 30%;
+    top: 50%;
+    position: absolute;
+    }
